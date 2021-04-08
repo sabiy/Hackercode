@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Name": "sabiya naaz hukkeri",
+    "Email": "sabiyanaaz24@gmail.com",
+    "Mobile": 2147483647
+  },
+  {
+    "Id": 2,
+    "Name": "zoya khan",
+    "Email": "zoya@gmail.com",
+    "Mobile": 1234567893
+  },
+  {
+    "Id": 3,
+    "Name": "Akhilesh",
+    "Email": "akhilesh@gmail.com",
+    "Mobile": 2147483647
+  },
+  {
+    "Id": 4,
+    "Name": "john",
+    "Email": "john@gmail.com",
+    "Mobile": 1234567894
+  },
+  {
+    "Id": 6,
+    "Name": "rahul",
+    "Email": "rahul@gmail.com",
+    "Mobile": 2147483647
+  },
+  {
+    "Id": 7,
+    "Name": "kabir singh",
+    "Email": "kabir@gmail.com",
+    "Mobile": 2147483647
+  },
+  {
+    "Id": 8,
+    "Name": "preeti",
+    "Email": "preeti",
+    "Mobile": 1234567894
+  }
+]

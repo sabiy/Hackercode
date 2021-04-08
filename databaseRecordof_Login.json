@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "",
+    "email": "",
+    "username": "sabiya naaz ",
+    "password": "4baf5897963fc12d1cd8fe1a02eb48fb",
+    "date": "2021-04-07 15:05:30"
+  },
+  {
+    "id": 1,
+    "name": "Naaz",
+    "email": "sabiyanaaz24@gmail.com",
+    "username": "sabiya naaz ",
+    "password": "ae2b1fca515949e5d54fb22b8ed95575",
+    "date": "2021-04-07 00:00:00"
+  },
+  {
+    "id": 2,
+    "name": "zoya khan",
+    "email": "zoya@gmail.com",
+    "username": "zoyakhan",
+    "password": "ae2b1fca515949e5d54fb22b8ed95575",
+    "date": "2021-04-07 00:00:00"
+  },
+  {
+    "id": 4,
+    "name": "akhilesh",
+    "email": "akhilesh@gmail.com",
+    "username": "akhilesh ",
+    "password": "ae2b1fca515949e5d54fb22b8ed95575",
+    "date": "2021-04-07 00:00:00"
+  },
+  {
+    "id": 4,
+    "name": "akhilesh",
+    "email": "akhilesh@gmail.com",
+    "username": "akhilesh ",
+    "password": "ae2b1fca515949e5d54fb22b8ed95575",
+    "date": "2021-04-07 00:00:00"
+  }
+]
